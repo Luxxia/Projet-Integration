@@ -2,17 +2,31 @@
 	width : 50%;
 }
 
-.inner-addon { 
-    position: relative; 
-  
+input{
+	margin-bottom:10px;
 }
 
-/* style icon */
+img{
+	margin-bottom:10px;
+}
+
+.smallp{
+	font-size: 12px;
+}
+
+.inner-addon { 
+    position: relative; 
+}
+
 .inner-addon .glyphicon {
   position: absolute;
   padding: 10px;
   pointer-events: none;
 }
 
-/* add padding  */
 .left-addon input  { padding-left:  30px; }
+
+button{
+	margin-top:20px;
+	margin-bottom: 20px;
+}
