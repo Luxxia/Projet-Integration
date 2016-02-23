@@ -1,0 +1,97 @@
+#ceo{
+	height: 200px;
+	width: 200px;
+	margin-right: 20px;
+}
+
+.square{
+	width:93%;
+	margin:auto;
+}
+
+.color{
+	height:250px;
+	width:250px;
+}
+
+#blue, #red, #green{
+	margin-right: 20px;
+}
+
+.color span {
+    display:block;
+    text-align:center
+  }
+
+span.glyphicon {
+    font-size: 40px;
+    color:white;
+    margin-top: 40px;
+}
+
+#blue{
+	background-color: #67b7d4;
+	color:white;
+}
+
+#red{
+	background-color: #ef6578;
+	color:white;
+}
+
+#green{
+	background-color: #53cfc2;
+	color:white;
+}
+
+#orange{
+	background-color: #f5ae56;
+	color:white;
+}
+
+.great{
+	background-image:url(images/bois.jpeg);
+	margin-top:30px;
+	height:300px;
+	width:100%;
+	color:white;
+	padding-top: 50px;
+}
+
+.btnwhite{
+	 background:none;
+	 color:white;
+	 width:150px;
+	 border-radius: 0;
+}
+
+.name{
+	font-size: 100px;
+	color:blue;
+}
+
+.quote{
+	padding-top : 20px;
+	background-color: white;
+	height:150px;
+	margin:5px;
+	width:375px;
+}
+
+.btnblue{
+	 background:none;
+	 color:#4aa2d1;
+	 width:100px;
+	 height:45px;
+	 border-radius: 0;
+	 margin-bottom :10px;
+}
+
+#chooseus{
+	 list-style: none;
+}
+
+#chooseus li:before {
+    content: "• ";
+    color: #4aa2d1;
+}
