@@ -1,0 +1,86 @@
+.quote{
+	padding-top : 20px;
+	background-color: white;
+	height:150px;
+	margin:5px;
+	width:375px;
+}
+
+.process ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.process li:before {
+    content: "• ";
+    color: #ef6578;
+}
+
+.great{
+	background-image:url(images/bois.jpeg);
+	height:300px;
+	width:100%;
+	color:white;
+	padding-top: 50px;
+	margin:0;
+}
+
+.btnwhite{
+	background:none;
+	color:white;
+	width:150px;
+	border-radius: 0;
+}
+
+.jumbotron {
+	margin:0;
+}
+
+input[type="text"]{
+	background-color:#1f2326;
+ 	border-radius: 0;
+ 	border-color: transparent;
+}
+
+.btn-info{
+	border-radius: 0;
+	background-color: #ef6578;
+	border-color: #ef6578;
+}
+
+.prefooter .glyphicon{
+	font-size: 20px;
+	margin-right: 10px;
+	margin-top:5px;
+}
+
+.prefooter .btn-default{
+	background-color:#1d2124;
+	color:white;
+	border-radius: 0;
+	border:transparent;
+	margin-bottom: 5px;
+}
+
+.prefooter ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.prefooter li:before {
+    content: "• ";
+    color: white;
+}
+
+.footer{
+	padding:20px;
+}
+
+.footer .fa{
+	margin-top: 0;
+}
+
+.carousel-control {
+        padding-top:10%;
+        width:5%;
+      }
